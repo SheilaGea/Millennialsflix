@@ -85,6 +85,8 @@ header nav a:hover{
     border-radius: 0.5em;
     box-shadow: 2px 2px 0 1px #E50914;
 
+    transition: box-shadow 0.3s ease, transform 0.3s esse;
+
 }
 
 .botao:hover{
@@ -95,6 +97,12 @@ header nav a:hover{
 .botao i{
     margin-right: 5px;
 }
+
+.botao:active {
+  box-shadow: 0 0 0 0 #E50914, inset 3px 3px 3px #E50914; 
+  transform: translate(3px, 3px);
+
+ }
 
 .container{
     margin-left: 20px;
@@ -115,11 +123,28 @@ header nav a:hover{
     margin-top: 10px;
 }
 
-.botao:active {
-   box-shadow: 0 0 0 0 #E50914, inset;
+
+.box-filmes{
+    height: 80%;
+    width: 80%;
+    display: block;
 }
 
-/* nyan */
+.carrosel-filmes{
+    margin-top: 10px;
+}
+
+.box-desenhos{
+    height: 80%;
+    width: 80%;
+    display: block;
+}
+
+.carrosel-desenhos{
+    margin-top: 10px;
+}
+
+/* nyan cursor */
 
 .nyan{
     z-index:10;
