@@ -4,7 +4,7 @@ Estou participando de um bootcamp e tinha como desafio recriar a interface da Ne
 
 ## Como utilizar
 
-Abra o arquivo `index.html` em um navagador de Internet para explorar o site.
+Abra o arquivo `index.html` em um navegador de Internet para explorar o site.
 
 ## Tecnologias utilizadas
 
