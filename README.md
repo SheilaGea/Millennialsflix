@@ -6,6 +6,10 @@ Estou participando de um bootcamp e tinha como desafio recriar a interface da Ne
 
 Abra o arquivo `index.html` em um navegador de Internet para explorar o site.
 
+Você tambem pode verificar o site através do link:
+
+https://millennialsflix.netlify.app
+
 ## Tecnologias utilizadas
 
 - HTML 5
